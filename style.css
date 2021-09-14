@@ -20,7 +20,7 @@ input{
     background-color:white;
 }
 #special {
-    border: 2px solid blue;
+    border: 2px blue solid;
 }
 p {
     font-size: 25px;
